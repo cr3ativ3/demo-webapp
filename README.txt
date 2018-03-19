@@ -5,6 +5,7 @@ Environment requirements:
 Instructions to run WebApp:
  - cmd to folder with this README.txt
  - run command: gradlew tomcatRunWar
+ - after server starts go to: http://localhost:8090
 
 Instructions to build WAR:
  - cmd to folder with this README.txt
